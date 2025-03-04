@@ -1,4 +1,4 @@
-### Instructions for Using the **qute-rofi-translate** Script
+# **qute-rofi-translate**
 
 This script allows you to translate selected text in **qutebrowser** and display the result in **rofi**. Below are the steps to set up and use the script.
 
