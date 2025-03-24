@@ -9,6 +9,7 @@ Make sure you have the following programs installed:
 - **qutebrowser** (browser).
 - **rofi** (menu for displaying the result).
 - **trans** (command-line utility for text translation).
+- **sh** (Python module for running shell commands)
 
 Install them if they are not already installed.
 
